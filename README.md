@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently pursuing *B.TECH 👨‍💻*
 
-- 🌱 I’m currently learning *react,laravel,flutter,php*
+- 🌱 I’m currently learning *react,flutter,php*
 
-- 📫 How to reach me *gorasiyabhoomin8@gmail.com*
+- 📫 How to reach me *krish.halai07.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
