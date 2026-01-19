@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *react,flutter,php*
 
-- 📫 How to reach me *krish.halai07.com*
+- 📫 How to reach me *krish.halai07@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
